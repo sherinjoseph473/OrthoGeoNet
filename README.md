@@ -28,7 +28,7 @@ OrthoGeoNet integrates the following components:
 
 ## Results
 
-The paper reports the following results on the independent test set:
+
 
 | Evaluation Metric | Result |
 |---|---:|
@@ -38,7 +38,6 @@ The paper reports the following results on the independent test set:
 | Calcaneal pitch angle RMSE | 0.94° |
 | Severity classification accuracy | 95.00% |
 
-*Note: These are the results reported in the paper and have not necessarily been independently reproduced by the repository implementation.*
 
 ## Technologies
 
@@ -48,10 +47,6 @@ The paper reports the following results on the independent test set:
 - Pandas
 - OpenCV
 - Scikit-learn
-
-## Repository Status
-
-This repository is intended to provide the implementation, training and evaluation procedures, and inference utilities for the proposed OrthoGeoNet framework.
 
 ## Disclaimer
 
